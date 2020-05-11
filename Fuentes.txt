@@ -1,0 +1,43 @@
+FUENTE.
+
+Titulos:
+Bahnschrift SemiLight SemiCondesed
+
+Subtitulos:
+Bahnschrift SemiBold Condesed
+
+Cuerpo:
+Bahnschrift SemiLight Condesed
+
+Relacion de Tamaño:
+10:7:5
+
+COLORES.
+
+Amarillo #ffe600
+R255
+V230
+A0
+
+Verde #00e600
+R0
+V230
+A0
+
+Blanco #ffffff
+R255
+V255
+A255
+
+Anaranjado #fd3a02
+R253
+V58
+A2
+
+Rojo #e60000
+R255
+V0
+A0
+
+SOMBRA.
+Sin Difuminacion
